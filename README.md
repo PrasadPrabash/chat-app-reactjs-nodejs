@@ -3,7 +3,7 @@ This features a full-stack, realtime chat app with Node JS, React JS and ChatEng
 
 This feature rich application will have: User authentication, socket connections, real-time messaging, image and file attachments, group chats and DMs, read receipts… and more!
 
-##Technologies Used
+### Technologies Used
 NodeJs
 ReactJs
 ChatEngine.io
